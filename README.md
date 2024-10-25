@@ -1,2 +1,2 @@
-# CSS_portfolio_project
+# Javascript_portfolio_project
  
